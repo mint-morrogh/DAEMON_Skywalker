@@ -34,7 +34,7 @@ Skywalker is a Python script designed to automate the joining of astrophotograph
 
 ## Usage
 
-**Daemonized Execution**  
+**Daemonized Execution:**  
 Configure the script to run automatically via the system-level scheduler (see Installation). or run it locally
 
 **Logs**  
